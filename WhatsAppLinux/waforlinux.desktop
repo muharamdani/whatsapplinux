@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=WhatsApp
+Comment=WhatsApp For Linux
+Exec=/usr/bin/waforlinux
+Icon=/usr/share/WhatsAppLinux/waicon.png
+Terminal=false
+Type=Application
